@@ -59,7 +59,7 @@ const Header = (props) => {
               </li>
               <li>
                 <Image src={icon3} alt="" />
-                Dubai, United Arab Emirates
+                Dubai 123, United Arab Emirates
               </li>
             </ul>
           </div>
