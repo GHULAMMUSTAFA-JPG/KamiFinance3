@@ -55,7 +55,7 @@ const Header = (props) => {
             <ul className="header__top-info ul_li">
               <li>
                 <Image src={icon2} alt="" />
-                Monday - Friday 09:00 am - 05:00 Pm
+                Monday to Friday 09:00 am - 05:00 Pm
               </li>
               <li>
                 <Image src={icon3} alt="" />
