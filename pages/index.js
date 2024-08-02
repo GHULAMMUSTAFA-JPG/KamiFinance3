@@ -5,7 +5,7 @@ import PartnerSection from "../components/PartnerSection";
 import ServiceSection from "../components/ServiceSection/ServiceSection";
 import About from "../components/about/about";
 import FunFactSection from "../components/FunFact/FunFact";
-import CountrySection from "../components/CountrySection/CountrySection";
+import NavbarOptionSection from "../components/NavbarOptionSection/NavbarOptionSection.js";
 import TeamSection from "../components/TeamSection/TeamSection";
 import FaqSection from "../components/FaqSection/FaqSection";
 import Testimonial from "../components/Testimonial/Testimonial";
@@ -25,11 +25,11 @@ const HomePage = () => {
         <ServiceSection />
         <About />
         <FunFactSection />
-        <CountrySection />
-        <TeamSection />
+        <NavbarOptionSection />
+        {/* <TeamSection /> */}
         <Testimonial />
         <FaqSection />
-        <BlogSection />
+        {/* <BlogSection /> */}
         <NewsLatter />
         <ContactSection />
         <Footer />

@@ -3,22 +3,26 @@ import Slider from "react-slick";
 import logo from "/public/images/icon/trustpilot.png";
 import rating from "/public/images/icon/tr_ratting.png";
 import Image from "next/image";
-
 const testimonial = [
   {
     id: "01",
-    Des: "From start to finish, evisa made my visa application a breeze.Their expertise and friendly guidance turned a complex process into a walk in the park. Grateful for their seamless service!",
-    Title: "Goladria Gomez",
+    Des: "Kami Finance transformed our business consultancy needs with exceptional expertise. Their strategic insights and professional guidance made navigating complex business challenges effortless and effective.",
+    Title: "Sarah K.",
   },
   {
     id: "02",
-    Des: "From start to finish, evisa made my visa application a breeze.Their expertise and friendly guidance turned a complex process into a walk in the park. Grateful for their seamless service!",
-    Title: "Adam Pedro",
+    Des: "Kami Finance made my visa application process incredibly smooth. Their knowledgeable and friendly support turned a complicated procedure into a straightforward experience. Their commitment is excellent.",
+    Title: "John D.",
   },
   {
     id: "03",
-    Des: "From start to finish, evisa made my visa application a breeze.Their expertise and friendly guidance turned a complex process into a walk in the park. Grateful for their seamless service!",
-    Title: "Alkira Jemin",
+    Des: "The immigration services provided by Kami Finance were top-notch. They managed every aspect with great care, making our relocation process stress-free and efficient. We are very grateful for their help.",
+    Title: "Maria S.",
+  },
+  {
+    id: "04",
+    Des: "Kami Finance’s business services have been outstanding. Their tailored solutions significantly boosted our operational efficiency and contributed to our growth. Their support has been invaluable.",
+    Title: "Michael T.",
   },
 ];
 
@@ -81,8 +85,9 @@ const Testimonial = () => {
           <div className="col-lg-4">
             <div className="sec-title margin-none-md mb-30-xs mb-125">
               <h2 className="mb-70 wow skewIn">
-                Happy Clients Reflect on Their <br />
-                <span> Journey with Us</span>
+                Clients Success <br />
+                Stories with Us <br />
+                <span>Now it's Your Turn</span>
               </h2>
               <p>
                 Embark on a Global Exploration: <br /> Experience Joy in 190+
