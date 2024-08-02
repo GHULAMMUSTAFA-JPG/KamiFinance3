@@ -5,7 +5,7 @@ import PartnerSection from "../components/PartnerSection";
 import ServiceSection from "../components/ServiceSection/ServiceSection";
 import About from "../components/about/about";
 import FunFactSection from "../components/FunFact/FunFact";
-import NavbarOptionSection from "../components/NavbarOptionSection/NavbarOptionSection.js";
+import NavbarOptionSection from "../components/NavbarOptionSection/NavbarOptionSection";
 import TeamSection from "../components/TeamSection/TeamSection";
 import FaqSection from "../components/FaqSection/FaqSection";
 import Testimonial from "../components/Testimonial/Testimonial";
